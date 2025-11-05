@@ -18,8 +18,6 @@
 - [Accessibility](#accessibility)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact & Support](#contact--support)
 
 ---
 
@@ -163,18 +161,4 @@ Contributions are welcome! Please:
 3. Open a PR with a clear description and tests where applicable.
 4. Follow semantic commit messages and our code style guide.
 
-## License
-This project is released under the MIT License. See `LICENSE` for details.
-
-## Contact & Support
-If you find a security issue, please contact the maintainers immediately at `security@example.com` and avoid opening a public issue for sensitive problems. For general support, raise a GitHub issue or contact `support@example.com`.
-
----
-
-**Notes & Next steps**
-- Consider region-specific partnerships with local emergency services and NGOs.
-- Build an offline-mode with SMS and USSD fallbacks for regions with poor internet connectivity.
-- Regularly review legal requirements for audio/video recording and emergency dispatch integrations.
-
-*Thank you for building safer communities.*
 
